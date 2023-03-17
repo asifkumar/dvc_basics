@@ -1,6 +1,1 @@
 [core]
-    remote = pddrive
-['remote "pdrive"']
-    url = P:\Test\DVC\
-['remote "pddrive"']
-    url = P:\Test\ai_dvc\
